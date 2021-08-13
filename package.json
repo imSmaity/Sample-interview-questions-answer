@@ -1,0 +1,23 @@
+{
+  "name": "Sample-interview-questions-answer",
+  "version": "1.0.0",
+  "description": "1. Give me your introduction and tell me why do you want to join neogcamp?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imSmaity/Sample-interview-questions-answer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imSmaity/Sample-interview-questions-answer/issues"
+  },
+  "homepage": "https://github.com/imSmaity/Sample-interview-questions-answer#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
